@@ -1,5 +1,7 @@
 const file_system = require('fs')
+
 console.log('start');
+
 const read_first_file = file_system.readFileSync('uploads/test_one.txt', 'utf8')
 
 const read_second_file = file_system.readFileSync('uploads/test_two.txt', 'utf8')
