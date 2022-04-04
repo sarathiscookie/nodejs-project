@@ -1,0 +1,28 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Node js project",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/sarathiscookie/nodejs-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathiscookie/nodejs-project/issues"
+  },
+  "homepage": "https://github.com/sarathiscookie/nodejs-project#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.4",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  }
+}
